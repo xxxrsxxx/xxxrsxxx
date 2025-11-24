@@ -2,7 +2,7 @@
 
 **Recent articles**
 <!-- BLOG-POST-LIST:START -->
-- [ 프로필 ](https://www.notion.so/xxooxx/ca684847e4654fb7ab251cf1e5298016)
+- [ 프로필 ](https://xoxop.vercel.app/)
 - [블록 기반, 페이지 빌더 데모 URL ](https://web-builder-rs.vercel.app/)
 <!-- BLOG-POST-LIST:END -->
 
